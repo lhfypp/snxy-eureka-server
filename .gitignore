@@ -33,3 +33,5 @@
 .settings/
 target/*
 test-output/*
+
+application-local.properties
